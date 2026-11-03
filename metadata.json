@@ -1,0 +1,6 @@
+{
+  "name": "Melkers Glos-Coach 🚀",
+  "description": "Mobiloptimerad och spelifierad läxcoach för spanska och engelska glosor med AI-kameratolkning, röst och stavningsutmaningar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
